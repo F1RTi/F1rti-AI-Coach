@@ -1,0 +1,332 @@
+{
+  "source": "Upstream demoparser public fixture, round 1, normalized and pseudonymized",
+  "roster": [
+    {
+      "steamid": "p0",
+      "team_num": 2.0
+    },
+    {
+      "steamid": "p1",
+      "team_num": 3.0
+    },
+    {
+      "steamid": "p2",
+      "team_num": 2.0
+    },
+    {
+      "steamid": "p3",
+      "team_num": 2.0
+    },
+    {
+      "steamid": "p4",
+      "team_num": 3.0
+    },
+    {
+      "steamid": "p5",
+      "team_num": 3.0
+    },
+    {
+      "steamid": "p6",
+      "team_num": 3.0
+    },
+    {
+      "steamid": "p7",
+      "team_num": 2.0
+    },
+    {
+      "steamid": "p8",
+      "team_num": 3.0
+    },
+    {
+      "steamid": "p9",
+      "team_num": 2.0
+    }
+  ],
+  "events": [
+    {
+      "kind": "round_start",
+      "tick": 65
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 3086,
+      "attacker_steamid": "p7",
+      "user_steamid": "p5",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "p250",
+      "dmg_health": 100
+    },
+    {
+      "kind": "player_death",
+      "tick": 3086,
+      "attacker_steamid": "p7",
+      "user_steamid": "p5",
+      "assister_steamid": null,
+      "user_team_num": 3,
+      "attacker_team_num": 2,
+      "weapon": "p250",
+      "dmg_health": 100,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 3917,
+      "attacker_steamid": "p1",
+      "user_steamid": "p3",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "hkp2000",
+      "dmg_health": 28
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4266,
+      "attacker_steamid": "p4",
+      "user_steamid": "p7",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "fiveseven",
+      "dmg_health": 35
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4275,
+      "attacker_steamid": "p4",
+      "user_steamid": "p7",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "fiveseven",
+      "dmg_health": 35
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4285,
+      "attacker_steamid": "p4",
+      "user_steamid": "p7",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "fiveseven",
+      "dmg_health": 28
+    },
+    {
+      "kind": "player_death",
+      "tick": 4285,
+      "attacker_steamid": "p4",
+      "user_steamid": "p7",
+      "assister_steamid": null,
+      "user_team_num": 2,
+      "attacker_team_num": 3,
+      "weapon": "fiveseven",
+      "dmg_health": 28,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4453,
+      "attacker_steamid": "p4",
+      "user_steamid": "p2",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "fiveseven",
+      "dmg_health": 94
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4488,
+      "attacker_steamid": "p2",
+      "user_steamid": "p4",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 23
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4493,
+      "attacker_steamid": "p9",
+      "user_steamid": "p1",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 104
+    },
+    {
+      "kind": "player_death",
+      "tick": 4493,
+      "attacker_steamid": "p9",
+      "user_steamid": "p1",
+      "assister_steamid": null,
+      "user_team_num": 3,
+      "attacker_team_num": 2,
+      "weapon": "glock",
+      "dmg_health": 104,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4509,
+      "attacker_steamid": "p2",
+      "user_steamid": "p4",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 23
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4518,
+      "attacker_steamid": "p2",
+      "user_steamid": "p4",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 95
+    },
+    {
+      "kind": "player_death",
+      "tick": 4518,
+      "attacker_steamid": "p2",
+      "user_steamid": "p4",
+      "assister_steamid": null,
+      "user_team_num": 3,
+      "attacker_team_num": 2,
+      "weapon": "glock",
+      "dmg_health": 95,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 4876,
+      "attacker_steamid": "p8",
+      "user_steamid": "p3",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "hkp2000",
+      "dmg_health": 110
+    },
+    {
+      "kind": "player_death",
+      "tick": 4876,
+      "attacker_steamid": "p8",
+      "user_steamid": "p3",
+      "assister_steamid": "p1",
+      "user_team_num": 2,
+      "attacker_team_num": 3,
+      "weapon": "hkp2000",
+      "dmg_health": 110,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 5693,
+      "attacker_steamid": "p8",
+      "user_steamid": "p0",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "hkp2000",
+      "dmg_health": 29
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 6041,
+      "attacker_steamid": "p2",
+      "user_steamid": "p8",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 85
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 6473,
+      "attacker_steamid": "p6",
+      "user_steamid": "p0",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "hkp2000",
+      "dmg_health": 32
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 7013,
+      "attacker_steamid": "p8",
+      "user_steamid": "p2",
+      "user_team_num": 2,
+      "attacker_team_num": 3.0,
+      "weapon": "hkp2000",
+      "dmg_health": 27
+    },
+    {
+      "kind": "player_death",
+      "tick": 7013,
+      "attacker_steamid": "p8",
+      "user_steamid": "p2",
+      "assister_steamid": "p4",
+      "user_team_num": 2,
+      "attacker_team_num": 3,
+      "weapon": "hkp2000",
+      "dmg_health": 27,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 7134,
+      "attacker_steamid": "p0",
+      "user_steamid": "p6",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "deagle",
+      "dmg_health": 193
+    },
+    {
+      "kind": "player_death",
+      "tick": 7134,
+      "attacker_steamid": "p0",
+      "user_steamid": "p6",
+      "assister_steamid": null,
+      "user_team_num": 3,
+      "attacker_team_num": 2,
+      "weapon": "deagle",
+      "dmg_health": 193,
+      "assistedflash": false
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 8944,
+      "attacker_steamid": "p9",
+      "user_steamid": "p8",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 12
+    },
+    {
+      "kind": "player_hurt",
+      "tick": 8971,
+      "attacker_steamid": "p9",
+      "user_steamid": "p8",
+      "user_team_num": 3,
+      "attacker_team_num": 2.0,
+      "weapon": "glock",
+      "dmg_health": 107
+    },
+    {
+      "kind": "player_death",
+      "tick": 8971,
+      "attacker_steamid": "p9",
+      "user_steamid": "p8",
+      "assister_steamid": "p2",
+      "user_team_num": 3,
+      "attacker_team_num": 2,
+      "weapon": "glock",
+      "dmg_health": 107,
+      "assistedflash": false
+    },
+    {
+      "kind": "round_end",
+      "tick": 8971,
+      "winner": 2
+    }
+  ]
+}
